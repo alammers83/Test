@@ -6,8 +6,8 @@ assignees: 'alammers83'
 
 ---
 
-name: Bug Report
-description: File a bug report
+name: Integration
+description: Integration Request
 title: "[Bug]: "
 labels: ["bug", "triage"]
 assignees:
