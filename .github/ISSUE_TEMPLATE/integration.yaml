@@ -1,7 +1,7 @@
-name: 🐞 Bug
-description: File a bug/issue
-title: "[BUG] <title>"
-labels: [Bug, Needs Triage]
+name: Integration request
+description: File an integration request
+title: "[Integrations] <title>"
+labels: [integration]
 body:
 - type: checkboxes
   attributes:
