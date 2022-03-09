@@ -7,8 +7,8 @@ body:
   attributes:
     label: Is this for an existing app(s)?
     options:
-    - label: Yes
-    - label: No
+    - label: "Yes"
+    - label: "No"
       required: true
 - type: textarea
   attributes:
