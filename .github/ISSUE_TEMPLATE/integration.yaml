@@ -12,8 +12,8 @@ body:
       required: true
 - type: textarea
   attributes:
-    label: Current Behavior
-    description: A concise description of what you're experiencing.
+    label: Business need
+    description: A concise description of the business need.
   validations:
     required: false
 - type: textarea
