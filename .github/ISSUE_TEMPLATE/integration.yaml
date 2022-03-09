@@ -5,10 +5,10 @@ labels: [integration]
 body:
 - type: checkboxes
   attributes:
-    label: Is there an existing issue for this?
-    description: Please search to see if an issue already exists for the bug you encountered.
+    label: Is this for an existing app(s)?
     options:
-    - label: I have searched the existing issues
+    - label: Yes
+    - label: No
       required: true
 - type: textarea
   attributes:
