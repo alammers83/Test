@@ -8,9 +8,8 @@ assignees: 'alammers83'
 
 name: Integration
 description: Integration Request
-title: "[Bug]: "
-labels: ["bug", "triage"]
-assignees:
+title: "[Integration]: "
+labels: ["Integration"]
   - octocat
 body:
   - type: markdown
