@@ -2,7 +2,7 @@
 
 1. Based in Washington, DC
 
-1. Have worked remote for over 6years. 
+1. Have worked remote for over 6 years. 
 
 1. Started in museums as a curator. 
 
